@@ -1,0 +1,6 @@
+{
+  "name": "Drive Notes",
+  "description": "Secure, offline-first notes application with dynamic auto-synchronization to your Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
